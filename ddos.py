@@ -3,7 +3,7 @@
 #Created By Tn. Kacamata
 
 # python 3.3.2+ dDos Script v.1
-# by gushtyan
+# by Tn. Kacamata
 # DDos Kirim kado terindah buat mantan
 
 
